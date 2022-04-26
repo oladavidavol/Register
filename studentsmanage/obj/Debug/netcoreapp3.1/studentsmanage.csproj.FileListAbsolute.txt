@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\studentsmanage\studentsmanage\bin\Debug\netcoreapp3.1\studentsmanage.exe
+C:\Users\User\source\repos\studentsmanage\studentsmanage\bin\Debug\netcoreapp3.1\studentsmanage.deps.json
+C:\Users\User\source\repos\studentsmanage\studentsmanage\bin\Debug\netcoreapp3.1\studentsmanage.runtimeconfig.json
+C:\Users\User\source\repos\studentsmanage\studentsmanage\bin\Debug\netcoreapp3.1\studentsmanage.runtimeconfig.dev.json
+C:\Users\User\source\repos\studentsmanage\studentsmanage\bin\Debug\netcoreapp3.1\studentsmanage.dll
+C:\Users\User\source\repos\studentsmanage\studentsmanage\bin\Debug\netcoreapp3.1\studentsmanage.pdb
+C:\Users\User\source\repos\studentsmanage\studentsmanage\obj\Debug\netcoreapp3.1\studentsmanage.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\studentsmanage\studentsmanage\obj\Debug\netcoreapp3.1\studentsmanage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\studentsmanage\studentsmanage\obj\Debug\netcoreapp3.1\studentsmanage.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\studentsmanage\studentsmanage\obj\Debug\netcoreapp3.1\studentsmanage.AssemblyInfo.cs
+C:\Users\User\source\repos\studentsmanage\studentsmanage\obj\Debug\netcoreapp3.1\studentsmanage.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\studentsmanage\studentsmanage\obj\Debug\netcoreapp3.1\studentsmanage.dll
+C:\Users\User\source\repos\studentsmanage\studentsmanage\obj\Debug\netcoreapp3.1\studentsmanage.pdb
+C:\Users\User\source\repos\studentsmanage\studentsmanage\obj\Debug\netcoreapp3.1\studentsmanage.genruntimeconfig.cache
